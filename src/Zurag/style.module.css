@@ -1,0 +1,10 @@
+.Zurag {
+  width: 100%;
+  height: 65%;
+  background-color: blue;
+}
+.Zurag img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
